@@ -1,0 +1,2 @@
+# 2D-Burgers-equation-by-explicit-scheme
+We approximated 2 dimensional Burgers equation by explicit scheme. We needed to realize the square with obstacle body and square has inlet and outlet. By 7 variant considered own initial condition and boundary conditions which are supported to get satisficed answer.  Until steady state was got 39266 iterations and difference between last iterations of u was 9.99989e-06, which means that we solved equation by right way.
